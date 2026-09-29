@@ -17,3 +17,5 @@ const routes = {
 };
 
 criarRouter(app, routes, inicializarFormulario);
+
+// Inicialização da aplicação e configuração das rotas.
